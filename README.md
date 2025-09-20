@@ -1,2 +1,1 @@
-# TO-DO-LIST
-This is the project is TO DO LIST. in this project we can do add, update, delete, complete, view with the help of python.
+# TO-DO-LISThis repository contains a Python To-Do List application that helps users create, read, update, and delete tasks. It’s designed to be easy to understand and extend — suitable for beginners learning Python or for anyone who wants a small utility to manage tasks. The app supports saving tasks to disk so your list persists between runs.
